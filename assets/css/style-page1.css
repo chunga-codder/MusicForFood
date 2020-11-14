@@ -40,4 +40,14 @@ h2 {
     font-size: 50px;
     font-weight: 800;
 }
+.about {
+    padding: 100px;
+    margin: 0px;
+    background-image: url("../images/french/anthony-delanoix-Q0-fOL2nqZc-unsplash.jpg");
+    background-attachment: fixed;
+    background-blend-mode: color;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+}
 
